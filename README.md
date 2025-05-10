@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, MERN Stack and Django**
 
-- 📫 How to reach me **003.myothant7729@gmail.com**
+- 📫 How to reach me **myothant.thedev@gmail.com**
 
 - 📄 Know about my experiences [https://myothantthedev.github.io/Portfolio/](https://myothantthedev.github.io/Portfolio/)
 
